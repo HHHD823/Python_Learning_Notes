@@ -12,8 +12,8 @@
 
 ## 元组tuple
 ![img_4.png](../assets/img9_4.png)
--元组用圆括号，列表用方括号。
--由于元组不可变，所以添加append、删除remove等操作不能用
+- 元组用圆括号，列表用方括号。
+- 由于元组不可变，所以添加append、删除remove等操作不能用
 
 ## 字典也是可变的
 ![img_5.png](../assets/img9_5.png)

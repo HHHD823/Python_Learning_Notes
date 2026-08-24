@@ -12,11 +12,11 @@
 ### 可变 和 不可变
 ![img_3.png](../assets/img8_3.png)
 
--不可变
+- 不可变
 ![img_4.png](../assets/img8_4.png)
 ![img_5.png](../assets/img8_5.png)
 
--可变
+- 可变
 ![img_6.png](../assets/img8_6.png)
 ![img_7.png](../assets/img8_7.png)
 所以使用append方法时，不需要也不应该再对列表重新赋值，因为原先列表已经被改变了。

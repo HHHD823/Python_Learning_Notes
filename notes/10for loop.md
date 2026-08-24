@@ -13,15 +13,20 @@ for语句下每个带缩进的语句，对每个元素都会执行一遍。
 ![img_4.png](../assets/img10_4.png)
 
 ## 与 range 的结合
+- 传入两个值
 ![img_5.png](../assets/img10_5.png)
 range表示整数序列，**注意：结束值不在序列的范围内。**
 ![img_6.png](../assets/img10_6.png)
 
--步长
+- 传入三个值  步长
 ![img_7.png](../assets/img10_7.png)
 步长不写时，默认为1
 ![img_8.png](../assets/img10_8.png)
 打印1-10里所有奇数 ↑
+
+- 传入一个值
+![img_2.png](../assets/img10_10.png)
+此时默认起始值为0，步长为1
 
 1-100所有数求和 ↓
 ![img_9.png](../assets/img10_9.png)
