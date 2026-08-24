@@ -32,4 +32,7 @@
 ## 字典的键值对个数
 ![img_9.png](../assets/img9_9.png)
 
+## 字典的其他方法
+![img_3.png](../assets/img9_10.png)
+
 [practice](/code/09_1.py)
